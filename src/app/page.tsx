@@ -27,11 +27,11 @@ export default function Home() {
           <div className="hero-text">
             <h2>Welcome!</h2>
             <h2>
-              I'm <span>Vaishnavi</span>, a developer
+              I&apos;m <span>Vaishnavi</span>, a developer
             </h2>
             <p>
-              I'm here to guide you to success and turn your goals into reality.
-              Let's achieve them together!
+              I&apos;m here to guide you to success and turn your goals into reality.
+              Let&apos;s achieve them together!
             </p>
             <div className="action-buttons">
               <a href="/resume.pdf" className="btn-primary">
