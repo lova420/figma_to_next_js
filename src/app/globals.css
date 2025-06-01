@@ -29,8 +29,7 @@ body {
 .header-skyblue
 {
   position: relative;
-  background-image: 
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 431' fill='none'><g filter='url(%23filter0_f_1425_206)'><path d='M53.3549 -222.715L-72 -122.893V428H1938V-280.682L1919.06 -299.451C1886.39 -331.833 1842.25 -350 1796.25 -350C1743.39 -350 1693.37 -326.028 1660.26 -284.818L1641.14 -261.028C1620.78 -235.694 1594.58 -215.679 1564.78 -202.701L1557.24 -199.415C1509.72 -178.715 1455.63 -179.213 1408.49 -200.784C1338.45 -232.841 1255.81 -217.437 1202.02 -162.295L1179.08 -138.778C1165.83 -125.201 1150.95 -113.321 1134.78 -103.411L1041.19 -46.0733C1026.96 -37.3571 1011.94 -30.0076 996.329 -24.1233L981.319 -18.4661C901.325 11.6838 811.29 -3.61627 745.746 -58.4984C732.999 -69.172 721.411 -81.1582 711.174 -94.2588L620.967 -209.7C597.906 -239.212 570.441 -265.001 539.536 -286.159L526.775 -294.896C474.345 -330.792 412.287 -350 348.746 -350C295.966 -350 244.031 -336.744 197.708 -311.447L137.339 -278.481C107.791 -262.345 79.6916 -243.687 53.3549 -222.715Z' fill='url(%23paint0_linear_1425_206)'/></g><defs><filter id='filter0_f_1425_206' x='-74.2' y='-352.2' width='2014.4' height='782.4' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'><feFlood flood-opacity='0' result='BackgroundImageFix'/><feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/><feGaussianBlur stdDeviation='1.1' result='effect1_foregroundBlur_1425_206'/></filter><linearGradient id='paint0_linear_1425_206' x1='933' y1='173.025' x2='933' y2='428' gradientUnits='userSpaceOnUse'><stop stop-color='%23592ADF'/><stop offset='0.760417' stop-color='%231F3687'/></linearGradient></defs></svg>");
+  background-image: url("/header_skyblue.svg");
   background-repeat: no-repeat;
   background-size: 70%;
   background-position: top;
@@ -45,8 +44,7 @@ body {
 .header-blue
 {
   position: relative;
-  background-image: 
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 432' fill='none'><g filter='url(%23filter0_f_1425_207)'><path d='M1760.45 -5.06799L1918 78.4959V429H-2V-21.8968L15.4921 -33.444C47.6602 -54.6796 85.3566 -66 123.902 -66C180.693 -66 234.715 -41.4639 272.082 1.30161L274.78 4.38854C298.542 31.5842 329.611 51.3891 364.295 61.4516C408.589 74.302 456.056 70.4847 497.727 50.721L505.606 46.9842C573.575 14.7481 653.547 21.0072 715.673 63.4257L722.216 67.8936C735.365 76.8709 749.427 84.4304 764.167 90.4457L875.086 135.71L929.177 149.289C997.492 166.439 1069.78 156.886 1131.29 122.578C1147.18 113.716 1162.16 103.308 1176.01 91.5049L1245.52 32.2523C1274.57 7.49271 1306.92 -13.1018 1341.65 -28.9381C1395.2 -53.3612 1453.38 -66 1512.24 -66H1516.79C1567.16 -66 1617.15 -57.1917 1664.49 -39.9731L1760.45 -5.06799Z' fill='url(%23paint0_linear_1425_207)'/></g><defs><filter id='filter0_f_1425_207' x='-4.5' y='-68.5' width='1925' height='500' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'><feFlood flood-opacity='0' result='BackgroundImageFix'/><feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/><feGaussianBlur stdDeviation='1.25' result='effect1_foregroundBlur_1425_207'/></filter><linearGradient id='paint0_linear_1425_207' x1='958' y1='-66' x2='958' y2='429' gradientUnits='userSpaceOnUse'><stop stop-color='%237B2BE0'/><stop offset='1' stop-color='%231E2358'/></linearGradient></defs></svg>");
+  background-image: url("/header_blue.svg");
   background-repeat: no-repeat;
   background-size: 70%;
   background-position: top;
@@ -62,8 +60,7 @@ body {
 .header-violet
 {
   position: relative;
-  background-image:
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 410' fill='none'><path d='M141.026 50.4689L-18 119.683V410H1920V36.5299L1912.06 32.2305C1873.02 11.0779 1829.31 0 1784.9 0H1777.53C1728.78 0 1681.15 14.6631 1640.83 42.0844C1616.41 58.6977 1589.16 70.7196 1560.43 77.5607L1551.05 79.7937C1504.94 90.7693 1456.84 90.487 1410.86 78.9868C1337.67 60.6791 1260.2 71.0072 1194.38 107.884L1192.89 108.72C1177.02 117.613 1161.99 127.93 1147.98 139.543L1120.64 162.224C1078.85 196.876 1029.19 220.728 976.027 231.681C924.426 242.311 870.732 230.819 828.002 199.999L751.966 145.158L665.214 84.4774C632.929 61.8955 597.922 43.482 561.022 29.6741C508.582 10.0508 453.045 0 397.054 0H386.757C335.933 0 285.378 7.38367 236.677 21.9197L141.026 50.4689Z' fill='%23332761'/></svg>");
+  background-image: url("/header_violet.svg");
   background-repeat: no-repeat;
   background-size: 70%;
   background-position: top;
@@ -78,8 +75,7 @@ body {
 
 .header-white {
   position: relative;
-  background-image: 
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 348' fill='none'><path d='M1761.14 42.837L1920 101.585V348H-15.9834V31.0059L-9.76294 28.1428C30.5221 9.60082 74.3439 0 118.691 0H130.281C176.664 0 222.228 12.2195 262.387 35.4283C287.162 49.747 314.101 59.9425 342.149 65.6158L353.999 68.0129C399.308 77.1777 446.015 76.948 491.231 67.3381L495.583 66.4131C567.525 51.1231 642.501 59.9694 708.909 91.5831C725.743 99.5969 743.218 106.189 761.15 111.292L868.404 141.808L931.869 152.916C996.183 164.173 1062.35 157.615 1123.2 133.952C1141.59 126.801 1159.36 118.141 1176.32 108.061L1234.41 73.537C1268.74 53.1372 1305.28 36.7282 1343.33 24.6296C1394.67 8.30751 1448.21 0 1502.08 0H1515.79C1566.55 0 1617.11 6.31117 1666.31 18.7882L1761.14 42.837Z' fill='white'/></svg>");
+  background-image: url("/header_white.svg");
   background-repeat: no-repeat;
   background-size: 70%;
   background-position: top;
@@ -609,8 +605,7 @@ body {
 
 .aws-section-top {
     position: relative;
-    background-image: 
-    url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 501' fill='none'><g filter='url(%23filter0_f_1425_210)'><path d='M1777.14 63.932L1936 147.496V498H0V47.1032L17.557 35.6088C50.0553 14.3326 88.0551 3 126.899 3C184.224 3 238.783 27.6447 276.68 70.6572L278.84 73.1094C302.965 100.491 334.418 120.402 369.489 130.492C414.085 143.323 461.824 139.508 503.816 119.757L511.836 115.984C580.446 83.7132 660.984 89.9903 723.766 132.502L730.191 136.853C743.489 145.857 757.7 153.435 772.587 159.46L884.395 204.71L939.203 218.355C1007.96 235.472 1080.64 225.924 1142.64 191.632C1158.73 182.734 1173.9 172.274 1187.94 160.405L1257.72 101.42C1287.14 76.5485 1319.87 55.8791 1354.97 40.0036C1408.9 15.6148 1467.41 3 1526.59 3H1531.46C1582.25 3 1632.66 11.8135 1680.43 29.0484L1777.14 63.932Z' fill='url(%23paint0_linear_1425_210)'/></g><defs><filter id='filter0_f_1425_210' x='-2.5' y='0.5' width='1941' height='500' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'><feFlood flood-opacity='0' result='BackgroundImageFix'/><feBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/><feGaussianBlur stdDeviation='1.25' result='effect1_foregroundBlur_1425_210'/></filter><linearGradient id='paint0_linear_1425_210' x1='968' y1='3' x2='968' y2='498' gradientUnits='userSpaceOnUse'><stop stop-color='%23F3F4FF'/><stop offset='1' stop-color='%231E2358'/></linearGradient></defs></svg>");
+    background-image: url("/aws_section_top.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -627,8 +622,7 @@ body {
 
 .aws-section-1 {
   position: relative;
-  background-image: 
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 463' fill='none'><path d='M159.026 56.993L0 135.155V463H1938V41.2521L1928.5 35.4434C1890.62 12.2652 1847.06 0 1802.64 0H1799.32C1748.34 0 1698.79 16.8342 1658.36 47.8879C1634.28 66.3829 1606.8 79.9585 1577.48 87.8411L1569.39 90.0164C1523.24 102.423 1474.59 102.115 1428.61 89.1247C1356.21 68.6753 1278.54 79.9712 1214.97 120.193L1209.38 123.729C1194.51 133.134 1180.57 143.921 1167.73 155.946L1135.68 185.964C1095.93 223.192 1047.07 249.29 994.027 261.63C942.952 273.511 889.254 261.081 848.595 227.965L769.966 163.923L680.573 93.3119C650.059 69.2089 616.439 49.3216 580.621 34.1855C527.232 11.6244 469.86 0 411.899 0H404.881C354.044 0 303.547 8.28137 255.372 24.5187L159.026 56.993Z' fill='%23332761'/></svg>"); 
+  background-image: url("/aws_section_1.svg");
   background-repeat: no-repeat;
   background-size: 100%, 100%;
   background-position: top;
@@ -643,8 +637,7 @@ body {
 
 .aws-section-2 {
   position: relative;
-  background-image: 
-  url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1920 463' fill='none' transform='scale(1, -1)'><path d='M159.026 56.993L0 135.155V463H1938V41.2521L1928.5 35.4434C1890.62 12.2652 1847.06 0 1802.64 0H1799.32C1748.34 0 1698.79 16.8342 1658.36 47.8879C1634.28 66.3829 1606.8 79.9585 1577.48 87.8411L1569.39 90.0164C1523.24 102.423 1474.59 102.115 1428.61 89.1247C1356.21 68.6753 1278.54 79.9712 1214.97 120.193L1209.38 123.729C1194.51 133.134 1180.57 143.921 1167.73 155.946L1135.68 185.964C1095.93 223.192 1047.07 249.29 994.027 261.63C942.952 273.511 889.254 261.081 848.595 227.965L769.966 163.923L680.573 93.3119C650.059 69.2089 616.439 49.3216 580.621 34.1855C527.232 11.6244 469.86 0 411.899 0H404.881C354.044 0 303.547 8.28137 255.372 24.5187L159.026 56.993Z' fill='%23332761'/></svg>");
+  background-image: url("/aws_section_2.svg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: top;
